@@ -10,4 +10,5 @@
 .holder{
 	display:flex;
 	flex-wrap:wrap;
+	justfy-content: space-evenly;
 }
